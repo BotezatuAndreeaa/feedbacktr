@@ -1,0 +1,41 @@
+.root {
+  display: flex;
+  justify-content: center;
+  align-content: space-around;
+  background-size: cover;
+}
+.form {
+  padding-top: 10px;
+  padding: 30px;
+  background-color: rgba(230,230,250, 0.3);
+  border-style: solid;
+  border-width: 2px;
+  margin: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-style: outset;
+  border-radius: 10px;
+
+}
+.input {
+  margin-bottom: 5px;
+  width: fit-content;
+}
+.centerText {
+  text-align: center;
+}
+.footer {
+  padding-top: 30px;
+}
+.externLogin {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.formTitle {
+  font-weight: bold;
+  font-size: larger;
+}
+.p-float-label label {
+  margin-left: 10px;
+}
